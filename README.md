@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rafi Danen
 #### this person loves machine learning
-![this person loves machine learning](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 currently Undergraduate on Gunadarma University taking Informatics Major.
 
