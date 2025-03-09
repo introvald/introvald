@@ -1,3 +1,6 @@
+![Banner](https://i.imgur.com/elwn4bK.gif)
+
+
 ### Hi there 👋, my name is Rafi Danen
 #### this person loves machine learning
 
