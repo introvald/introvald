@@ -26,11 +26,18 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50px" height="50px" alt="LinkedIn" />
 </a>
 
-
+<br><br>
 
 <h3 align="center">🔆 Certificates</h3>
 
-
+<div align="center" style="display: flex; gap: 10px;">
+    <a href="https://www.cloudskillsboost.google/public_profiles/97ad81ba-9852-4842-b47f-5c0f2190f174/badges/9078372">
+        <img src="https://i.imgur.com/XRzOHgv.png" alt="CLOUDSKILLS" width="350" style="border-radius: 10px;">
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/97ad81ba-9852-4842-b47f-5c0f2190f174/badges/9083012">
+        <img src="https://i.imgur.com/mEgHrht.png" alt="CLOUDSKILLS" width="355" style="border-radius: 10px;">
+    </a>
+</div>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/introvald)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafi_danen/)  
