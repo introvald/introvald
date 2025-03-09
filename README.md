@@ -14,6 +14,11 @@
 <div align="left"> 
 
 
+<a href="https://instagram.com/yourusername" target="_blank">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="150px" alt="Instagram" />
+</a>
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/introvald)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafi_danen/)  
 
