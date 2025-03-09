@@ -4,12 +4,14 @@
 <h1 align="center">Hello 🎉 I'm Rafi Danen</h1>
 <h4 align="left">🌟I'm passionate about Data Science and AI/ML. Currently, I'm pursuing my undergraduate degree in IT at Gunadarma University while honing my programming skills. I'm also exploring the vast IT field to gain deep knowledge and broaden my expertise.</h4>
 
-<br><br>
-<img align="right" alt="coding-gif" width="400" height="250" src="https://i.imgur.com/l3tIflT.gif">
+
 
 <br><br>
 
 <h3 align="left">💫 About Me</h3>
+
+<img align="right" alt="coding-gif" width="400" height="250" src="https://i.imgur.com/l3tIflT.gif">
+
 <h4> 
   🌱 I am currently working on and developing my programming skills.</br>
   🔭 I worked on Streamlit for a Diabetic Prediction website.</br>
