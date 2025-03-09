@@ -1,10 +1,9 @@
 ![Banner](https://i.imgur.com/elwn4bK.gif)
 
 
-### Hi there 👋, my name is Rafi Danen
-#### this person loves machine learning
+<h1 align="center">Hello 🎉 I'm Rafi Danen</h1>
+<h4 align="left">🌟I'm passionate about Data Science and AI/ML. Currently, I'm pursuing my undergraduate degree in IT at Gunadarma University while honing my programming skills. I'm also exploring the vast IT field to gain deep knowledge and broaden my expertise.</h4>
 
-<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 currently Undergraduate on Gunadarma University taking Informatics Major.
 
 Skills: PYTHON / JAVASCRIPT / STREAMLIT / DJANGO
