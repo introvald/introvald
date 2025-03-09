@@ -61,6 +61,6 @@
 
 <br/>
 
+<a href="https://i.imgur.com/X3rGMA8.gif"><img src="https://i.imgur.com/X3rGMA8.gif" alt="Seas GIF" style="width:auto; height:auto"/></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920" height=0.4/>
-
