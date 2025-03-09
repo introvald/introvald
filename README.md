@@ -5,9 +5,6 @@
 <h4 align="left">🌟I'm passionate about Data Science and AI/ML. Currently, I'm pursuing my undergraduate degree in IT at Gunadarma University while honing my programming skills. I'm also exploring the vast IT field to gain deep knowledge and broaden my expertise.</h4>
 
 
-
-<br><br>
-
 <h3 align="left">💫 About Me</h3>
 
 <img align="right" alt="coding-gif" width="400" height="250" src="https://i.imgur.com/l3tIflT.gif">
@@ -29,7 +26,7 @@
 </a>
 
 <br><br>
-
+<br><br>
 <h3 align="center">🔆 Certificates</h3>
 
 <div align="center" style="display: flex; gap: 10px;">
