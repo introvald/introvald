@@ -7,7 +7,7 @@
 
 <h3 align="left">💫 About Me</h3>
 
-<img align="right" alt="coding-gif" width="400" height="250" src="https://i.imgur.com/l3tIflT.gif">
+<img align="right" alt="coding-gif" width="400" height="300" src="https://i.imgur.com/l3tIflT.gif">
 
 <h4> 
   🌱 I am currently working on and developing my programming skills.</br>
