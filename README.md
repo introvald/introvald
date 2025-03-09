@@ -40,9 +40,13 @@
 </div>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/introvald)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafi_danen/)  
+<h3 align="center">⚡ Github Status</h3>
+<br>
+<div align="center">
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=Introvald&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=introvald)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Introvald&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=introvald&show_icons=true)  
+<br/><br/> 
 
