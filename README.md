@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding-gif" width="400" src="https://i.imgur.com/l3tIflT.gif">
 
-<br></br>
+
 
 <h3 align="left">💫 About Me</h3>
 <h4> 
