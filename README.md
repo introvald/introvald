@@ -4,7 +4,7 @@
 ### Hi there 👋, my name is Rafi Danen
 #### this person loves machine learning
 
-
+<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 currently Undergraduate on Gunadarma University taking Informatics Major.
 
 Skills: PYTHON / JAVASCRIPT / STREAMLIT / DJANGO
