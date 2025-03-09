@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="coding-gif" width="400" src="https://i.imgur.com/l3tIflT.gif">
+<img align="right" alt="coding-gif" width="400" height="250" src="https://i.imgur.com/l3tIflT.gif">
 
 <br><br>
 
