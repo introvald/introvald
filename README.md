@@ -32,10 +32,10 @@
 
 <div align="center" style="display: flex; gap: 10px;">
     <a href="https://www.cloudskillsboost.google/public_profiles/97ad81ba-9852-4842-b47f-5c0f2190f174/badges/9078372">
-        <img src="https://i.imgur.com/XRzOHgv.png" alt="CLOUDSKILLS" width="350" style="border-radius: 10px;">
+        <img src="https://i.imgur.com/XRzOHgv.png" alt="CLOUDSKILLS" width="200" style="border-radius: 10px;">
     </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/97ad81ba-9852-4842-b47f-5c0f2190f174/badges/9083012">
-        <img src="https://i.imgur.com/mEgHrht.png" alt="CLOUDSKILLS" width="355" style="border-radius: 10px;">
+        <img src="https://i.imgur.com/mEgHrht.png" alt="CLOUDSKILLS" width="200" style="border-radius: 10px;">
     </a>
 </div>
 
