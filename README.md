@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding-gif" width="400" src="https://i.imgur.com/l3tIflT.gif">
 
-
+<br></br>
 
 <h3 align="left">💫 About Me</h3>
 <h4> 
@@ -26,6 +26,12 @@
 <a href="https://www.linkedin.com/in/rafidanen/" target="_blank">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50px" height="50px" alt="LinkedIn" />
 </a>
+
+
+
+<h3 align="center">🔆 Certificates</h3>
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/introvald)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafi_danen/)  
