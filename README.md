@@ -57,8 +57,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,react,c,lua,js,r,kotlin" /><br>
     <img src="https://skillicons.dev/icons?i=pycharm,idea,anaconda,vscode,github,git,notion,figma,electron" /><br>
-    <img src="https://skillicons.dev/icons?i=blender,godot,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
     <img src="https://skillicons.dev/icons?i=docker,nginx,npm,opencv,postman,pytorch,robloxstudio,sklearn,tensorflow" /><br>
 </div>
 
 <br/>
+
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+
