@@ -55,10 +55,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql,gitlab,raspberrypi,arduino,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=pycharm,idea,anaconda,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,c,lua,js,r,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,anaconda,vscode,github,git,notion,figma,electron" /><br>
+    <img src="https://skillicons.dev/icons?i=blender,godot,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,nginx,npm,opencv,postman,pytorch,robloxstudio,sklearn,tensorflow" /><br>
 </div>
 
 <br/>
