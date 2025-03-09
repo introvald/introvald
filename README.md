@@ -61,6 +61,4 @@
 
 <br/>
 
-<img src="https://i.imgur.com/X3rGMA8.gif"/>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920" height=0.4/>
