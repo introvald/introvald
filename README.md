@@ -15,7 +15,7 @@
 
 
 <a href="https://instagram.com/yourusername" target="_blank">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="150px" alt="Instagram" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="50px" height="50px" alt="Instagram" />
 </a>
 
 
