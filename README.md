@@ -14,10 +14,12 @@
 <div align="left"> 
 
 
-<a href="https://instagram.com/yourusername" target="_blank">
+<a href="https://instagram.com/rafi_danen" target="_blank">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="50px" height="50px" alt="Instagram" />
 </a>
-
+<a href="https://www.linkedin.com/in/rafidanen/" target="_blank">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50px" height="50px" alt="LinkedIn" />
+</a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/introvald)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafi_danen/)  
