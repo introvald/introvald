@@ -63,4 +63,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920" height=0.4/>
 
-<a href="https://a90.com/experiments/88x31/"><img src="https://a90.com/experiments/88x31/pelican.gif" width="88" height="31" alt="A pelican riding a bicycle. State of the art benchmark."></a>
+<p align="center">
+  <a href="https://a90.com/experiments/88x31/"><img src="https://a90.com/experiments/88x31/pelican.gif" width="264" height="93" alt="A pelican riding a bicycle. State of the art benchmark."></a>
+</p>
